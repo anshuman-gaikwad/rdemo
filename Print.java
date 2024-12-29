@@ -1,10 +1,10 @@
 public class Print{
   public static void main(String [] args){
-    int n=1;
+    int n=10;
 
     for(int i=1; i<=n; i++)
       {
-        System.out.println("Numbers :" + n);
+        System.out.println("Numbers :" + i);
       }
   }
 }
